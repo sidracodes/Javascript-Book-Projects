@@ -1,0 +1,10 @@
+let a='sidra';
+let b="sidra";
+let c=undefined;
+let d=null;
+let e=1000;
+console.log(typeof a);
+console.log(typeof b);
+console.log(typeof c);
+console.log(typeof d);
+console.log(typeof e);
