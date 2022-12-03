@@ -1,0 +1,13 @@
+UNSOLVED EXERCISES
+1-calculator
+2-number is palindrome
+3-validate strong password
+4- learn dom manipulation in frontend development  in nextjs
+5-learn es6 features of javascript
+----------------------------------------------------------------------------------------------------------------------------------------
+learn-javascript-by-miss-hira
+https://github.com/hirashoaib/learn-javascript
+------------------------------------------------------------------------------------------------------------------------------------------
+JavaScript-from-Beginner-to-Professional-book-solved
+https://github.com/PacktPublishing/JavaScript-from-Beginner-to-Professional/
+------------------------------------------------------------------------------------------------------------------------------------------
