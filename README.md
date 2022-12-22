@@ -1,4 +1,4 @@
-# javascript-book-practise UNSOLVED EXERCISES
+# UNSOLVED EXERCISES
 
 1-calculator
 2-number is palindrome
